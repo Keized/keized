@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/KeiZed"><img src="https://api.daily.dev/devcards/6bcd50a69de34cc7a9ced13186abad4d.png?r=elo" width="400" alt="Kevin Fiseneck's Dev Card"/></a>
+<a href="https://app.daily.dev/KeiZed"><img src="https://api.daily.dev/devcards/6bcd50a69de34cc7a9ced13186abad4d.png?r=om4" width="400" alt="Kevin Fiseneck's Dev Card"/></a>
 
 <!--
 **Keized/keized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
