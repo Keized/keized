@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<p align="center">
-<a href="https://app.daily.dev/KeiZed"><img src="https://api.daily.dev/devcards/6bcd50a69de34cc7a9ced13186abad4d.png?r=om4" width="400" alt="Kevin Fiseneck's Dev Card"/></a>
-</p>
-
 ### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -28,3 +22,8 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
+
+<p align="center">
+<a href="https://app.daily.dev/KeiZed"><img src="https://api.daily.dev/devcards/6bcd50a69de34cc7a9ced13186abad4d.png?r=om4" width="400" alt="Kevin Fiseneck's Dev Card"/></a>
+</p>
+
