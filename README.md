@@ -27,7 +27,3 @@
   </a>
 </p>
 
-<p align="center">
-<a href="https://app.daily.dev/KeiZed"><img src="https://api.daily.dev/devcards/6bcd50a69de34cc7a9ced13186abad4d.png?r=om4" width="400" alt="Kevin Fiseneck's Dev Card"/></a>
-</p>
-
