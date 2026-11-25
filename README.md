@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/><img src="assets/hero.svg" width="100%" alt="Kevin Fiseneck. Full-stack developer. I build AI agents, RAG systems and the Azure infrastructure they run on."/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/><img src="assets/hero.svg" width="100%" alt="Kevin Fiseneck. Full-stack developer. I build AI agents, RAG systems and the cloud infrastructure they run on."/></picture>
 
 I turn messy business processes into software people actually use: AI agents that take work off a team's plate, search that finds the right document, and the cloud setup that keeps it all running. Ten years of full-stack work, from PHP backends to LLM pipelines.
 
@@ -34,11 +34,8 @@ I turn messy business processes into software people actually use: AI agents tha
 
 <a href="https://github.com/Keized/sncf-mcp"><picture><source media="(prefers-color-scheme: light)" srcset="assets/sncf-mcp-light.svg"/><img src="assets/sncf-mcp.svg" width="100%" alt="sncf-mcp: MCP server for SNCF trains with schedules, real-time delays and disruptions, for Claude, ChatGPT and Cursor. Built out of pure necessity."/></picture></a>
 
-<a href="https://github.com/Keized/react-hooks-hub"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=keized&repo=react-hooks-hub&bg_color=f7f4ee&title_color=1b2430&text_color=5b6470&icon_color=e0501a&border_color=d8d1c4"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=keized&repo=react-hooks-hub&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&icon_color=ff6b35&border_color=263241"/></picture></a>
-
-<picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=keized&show_icons=true&include_all_commits=true&count_private=true&bg_color=f7f4ee&title_color=1b2430&text_color=5b6470&icon_color=e0501a&border_color=d8d1c4"/><img height="165" src="https://github-readme-stats.vercel.app/api?username=keized&show_icons=true&include_all_commits=true&count_private=true&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&icon_color=ff6b35&border_color=263241"/></picture>
-<picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&bg_color=f7f4ee&title_color=1b2430&text_color=5b6470&border_color=d8d1c4"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&border_color=263241"/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&exclude_repo=python-notebooks&bg_color=f7f4ee&title_color=1b2430&text_color=5b6470&border_color=d8d1c4"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&exclude_repo=python-notebooks&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&border_color=263241"/></picture>
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/kevin-fiseneck/)
+[adrenalize.fr](https://www.adrenalize.fr) · [LinkedIn](https://www.linkedin.com/in/kevin-fiseneck/)

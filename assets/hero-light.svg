@@ -57,7 +57,7 @@
 
 <text x="44" y="112" class="d" font-size="68" fill="#1b2430" letter-spacing="0.5">KEVIN FISENECK</text>
 <text x="46" y="156" class="t" font-size="21" fill="#1b2430">Full-stack developer. I build AI agents, RAG systems</text>
-<text x="46" y="184" class="t" font-size="21" fill="#1b2430">and the Azure infrastructure they run on.</text>
+<text x="46" y="184" class="t" font-size="21" fill="#1b2430">and the cloud infrastructure they run on.</text>
 <text x="46" y="222" class="t" font-size="15" font-weight="500" fill="#5b6470">Luxembourg area · writing software since 2016</text>
 
 </g>
