@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/><img src="assets/hero.svg" width="100%" alt="Kevin Fiseneck. Full-stack developer. I build AI agents, RAG systems and the Azure infrastructure they run on."/></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/><img src="assets/hero.svg" width="100%" alt="Kevin Fiseneck. Full-stack developer. I build AI agents, RAG systems and the cloud infrastructure they run on."/></picture>
 
 I turn messy business processes into software people actually use: AI agents that take work off a team's plate, search that finds the right document, and the cloud setup that keeps it all running. Ten years of full-stack work, from PHP backends to LLM pipelines.
 
@@ -38,4 +38,4 @@ I turn messy business processes into software people actually use: AI agents tha
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/kevin-fiseneck/)
+[adrenalize.fr](https://www.adrenalize.fr) · [LinkedIn](https://www.linkedin.com/in/kevin-fiseneck/)
