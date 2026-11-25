@@ -1,8 +1,6 @@
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/><img src="assets/hero.svg" width="100%" alt="Kevin Fiseneck. Full-stack developer. I build AI agents, RAG systems and the cloud infrastructure they run on."/></picture>
 
-<p><a href="https://www.adrenalize.fr"><img src="assets/adrenalize-icon.svg" height="18" align="center" alt=""/> <b>adrenalize.fr</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kevin-fiseneck/"><img src="assets/linkedin.svg" height="18" align="center" alt=""/> <b>LinkedIn</b></a></p>
-
-I turn messy business processes into software people actually use: AI agents that take work off a team's plate, search that finds the right document, and the cloud setup that keeps it all running. Ten years of full-stack work, from PHP backends to LLM pipelines.
+<p><a href="https://www.adrenalize.fr"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-adrenalize-light.svg"/><img src="assets/btn-adrenalize.svg" height="40" alt="adrenalize.fr"/></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kevin-fiseneck/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg"/><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"/></picture></a></p>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg"/><img src="assets/terminal.svg" width="100%" alt="whoami: Kevin, full-stack developer, AI engineering, Luxembourg. Now: AI agents for HR onboarding and IT tickets; hybrid RAG with semantic search, BM25 and reranking on Qdrant; a log watcher that explains errors and opens tickets; a voice assistant with one memory shared across all my devices that orchestrates coding subagents by voice."/></picture>
 
@@ -42,4 +40,4 @@ I turn messy business processes into software people actually use: AI agents tha
 
 <a href="https://www.adrenalize.fr"><picture><source media="(prefers-color-scheme: light)" srcset="assets/adrenalize-light.svg"/><img src="assets/adrenalize.svg" width="100%" alt="Adrenalize, my freelance studio: custom SaaS, AI integration and websites. adrenalize.fr"/></picture></a>
 
-<p><a href="https://www.adrenalize.fr"><img src="assets/adrenalize-icon.svg" height="18" align="center" alt=""/> <b>adrenalize.fr</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kevin-fiseneck/"><img src="assets/linkedin.svg" height="18" align="center" alt=""/> <b>LinkedIn</b></a></p>
+<p><a href="https://www.adrenalize.fr"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-adrenalize-light.svg"/><img src="assets/btn-adrenalize.svg" height="40" alt="adrenalize.fr"/></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kevin-fiseneck/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg"/><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"/></picture></a></p>
