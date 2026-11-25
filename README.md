@@ -1,30 +1,44 @@
-### Tech Stack
+<img src="assets/hero.svg" width="100%" alt="Kevin Fiseneck. Full-stack developer. I build AI agents, RAG systems and the Azure infrastructure they run on."/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
+I turn messy business processes into software people actually use: AI agents that take work off a team's plate, search that finds the right document, and the cloud setup that keeps it all running. Ten years of full-stack work, from PHP backends to LLM pipelines.
 
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=A8B9CC)&nbsp;
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony&logoColor=A8B9CC)&nbsp;
+<img src="assets/terminal.svg" width="100%" alt="whoami: Kevin, full-stack developer, AI engineering, Luxembourg. Now: AI agents for HR onboarding and IT tickets; hybrid RAG with semantic search, BM25 and reranking on Qdrant; a log watcher that explains errors and opens tickets; a voice assistant with one memory shared across all my devices that orchestrates coding subagents by voice."/>
 
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
+### How my stack fits together
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-
-### Analytics
+<img src="assets/stack.svg" width="100%" alt="Architecture: Interfaces (TypeScript, React, Next.js, Svelte) call APIs and services (Node.js, NestJS, PHP, Symfony, Python), which call an AI layer (Claude, OpenAI, Azure OpenAI, Mistral AI, LangChain, Vercel AI SDK, MCP, ElevenLabs), backed by Automation (n8n, Durable Functions, RabbitMQ), Knowledge (Qdrant, Elasticsearch, PostgreSQL, Redis) and Monitoring (Langfuse, Grafana), all on Microsoft Azure with Terraform, Docker and GitHub Actions."/>
 
 <p align="center">
-  <a href="https://github.com/keized">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keized&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
+  <img src="assets/stack-icons.svg" alt="Claude, OpenAI, Mistral AI, LangChain, Qdrant, ElevenLabs, Vercel, Grafana, TypeScript, React, Next.js, Node.js, NestJS, PHP, Symfony, Python, PostgreSQL, Elasticsearch, Redis, RabbitMQ, Docker, Microsoft Azure, Terraform"/>
 </p>
 
+<details>
+<summary>Full list</summary>
+
+| | |
+|---|---|
+| **AI** | Claude (API, Agent SDK, Claude Code), OpenAI, Azure OpenAI, Mistral AI, LangChain, Vercel AI SDK, MCP, RAG, Qdrant, Langfuse, ElevenLabs |
+| **Automation** | n8n, Azure Durable Functions, scheduled Claude agents, RabbitMQ |
+| **Frontend** | TypeScript, React, Next.js, Svelte |
+| **Backend** | Node.js, NestJS, PHP, Symfony, Python |
+| **Data** | PostgreSQL, Elasticsearch, Redis, Qdrant |
+| **Cloud & DevOps** | Microsoft Azure, Terraform, Docker, GitHub Actions, Grafana |
+
+</details>
+
+### Career
+
+<img src="assets/career.svg" width="100%" alt="Career: InTimesIT from 2016, Positive Thinking Company from 2019 (Redspher, Fund Channel), Nvision in 2022, LSGID from 2023, mentor at OpenClassrooms since 2022."/>
+
+### Open source
+
+<a href="https://github.com/Keized/sncf-mcp"><img src="assets/sncf-mcp.svg" width="100%" alt="sncf-mcp: MCP server for SNCF trains with schedules, real-time delays and disruptions, for Claude, ChatGPT and Cursor. Built out of pure necessity."/></a>
+
+<a href="https://github.com/Keized/react-hooks-hub"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=keized&repo=react-hooks-hub&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&icon_color=ff6b35&border_color=263241"/></a>
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keized&show_icons=true&include_all_commits=true&count_private=true&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&icon_color=ff6b35&border_color=263241"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&border_color=263241"/>
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/kevin-fiseneck/)
