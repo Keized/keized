@@ -34,8 +34,6 @@
 
 <a href="https://github.com/Keized/sncf-mcp"><picture><source media="(prefers-color-scheme: light)" srcset="assets/sncf-mcp-light.svg"/><img src="assets/sncf-mcp.svg" width="100%" alt="sncf-mcp: MCP server for SNCF trains with schedules, real-time delays and disruptions, for Claude, ChatGPT and Cursor. Built out of pure necessity."/></picture></a>
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&exclude_repo=python-notebooks&bg_color=f7f4ee&title_color=1b2430&text_color=5b6470&border_color=d8d1c4"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keized&layout=compact&langs_count=8&exclude_repo=python-notebooks&bg_color=0f141b&title_color=e8edf2&text_color=9aa7b4&border_color=263241"/></picture>
-
 ### Work with me
 
 <a href="https://www.adrenalize.fr"><picture><source media="(prefers-color-scheme: light)" srcset="assets/adrenalize-light.svg"/><img src="assets/adrenalize.svg" width="100%" alt="Adrenalize, my freelance studio: custom SaaS, AI integration and websites. adrenalize.fr"/></picture></a>
